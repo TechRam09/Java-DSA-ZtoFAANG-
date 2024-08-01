@@ -1,0 +1,17 @@
+charAt: Returns the character at the specified index.
+compareTo: Compares two strings lexicographically.
+concat: Concatenates the specified string to the end of this string.
+contains: Returns true if this string contains the specified sequence of char values.
+equals: Compares this string to the specified object.
+equalsIgnoreCase: Compares this string to another string, ignoring case considerations.
+indexOf: Returns the index within this string of the first occurrence of the specified character or substring.
+isEmpty: Returns true if, and only if, length() is 0.
+length: Returns the length of this string.
+replace: Returns a string resulting from replacing all occurrences of oldChar in this string with newChar.
+split: Splits this string around matches of the given regular expression.
+substring: Returns a new string that is a substring of this string.
+toCharArray: Converts this string to a new character array.
+toLowerCase: Converts all of the characters in this String to lower case.
+toUpperCase: Converts all of the characters in this String to upper case.
+trim: Returns a string whose value is this string, with any leading and trailing whitespace removed.
+valueOf: Returns the string representation of the passed argument.
