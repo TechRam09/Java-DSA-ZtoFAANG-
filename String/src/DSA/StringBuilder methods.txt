@@ -1,0 +1,23 @@
+append: Adds the string representation of the argument to this sequence.
+insert: Inserts the string representation of the argument into this sequence.
+delete: Removes the characters in a substring of this sequence.
+deleteCharAt: Removes the char at the specified position in this sequence.
+replace: Replaces the characters in a substring of this sequence with characters in the specified String.
+reverse: Causes this character sequence to be replaced by the reverse of the sequence.
+setCharAt: Sets the character at the specified index to ch.
+setLength: Sets the length of this character sequence.
+ensureCapacity: Ensures that the capacity is at least equal to the specified minimum.
+trimToSize: Attempts to reduce storage used for the character sequence.
+length: Returns the length (character count).
+capacity: Returns the current capacity.
+charAt: Returns the char value at the specified index.
+codePointAt: Returns the character (Unicode code point) at the specified index.
+codePointBefore: Returns the character (Unicode code point) before the specified index.
+codePointCount: Returns the number of Unicode code points in the specified text range.
+offsetByCodePoints: Returns the index within this sequence that is offset from the given index by codePointOffset code points.
+getChars: Characters are copied from this sequence into the destination character array.
+substring: Returns a new String that contains a subsequence of characters currently contained in this character sequence.
+subsequence: Returns a new character sequence that is a subsequence of this sequence.
+indexOf: Returns the index within this string of the first occurrence of the specified substring.
+lastIndexOf: Returns the index within this string of the rightmost occurrence of the specified substring.
+toString: Returns a string representing the data in this sequence.
