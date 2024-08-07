@@ -1,5 +1,13 @@
 package StarPatterns;
 
+/*
+* * *
+* *
+*
+
+
+ */
+
 import java.util.Scanner;
 
 public class DecreasingTriangle {
