@@ -1,0 +1,6 @@
+Class -> logical construct
+object -> physical reality
+stored in heap memory , 1occupy space in  memory
+
+
+s
